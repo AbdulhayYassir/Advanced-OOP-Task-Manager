@@ -1,0 +1,17 @@
+[
+    {
+        "title": "oop",
+        "category": "Personal",
+        "is_completed": true
+    },
+    {
+        "title": "reading",
+        "category": "Study",
+        "is_completed": true
+    },
+    {
+        "title": "write",
+        "category": "Work",
+        "is_completed": true
+    }
+]
